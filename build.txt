@@ -1,0 +1,8 @@
+Dependencies:
+    - python3
+    - nodejs
+    - npm 
+    - rust
+
+Run project: npm build
+Run tests: npm test
