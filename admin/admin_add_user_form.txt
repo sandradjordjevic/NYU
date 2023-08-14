@@ -1,0 +1,10 @@
+Add new user form:
+
+First name: _______________
+Last name:  _______________
+Email:      _______________
+Password:   _______________
+
+|_| Force to change password on login
+
+| Submit | 

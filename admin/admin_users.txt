@@ -1,0 +1,8 @@
+Username    | Role              | Actions | Status
+Pera        | Admin             |         |
+Darko       | Developer         |         |
+Zarko       | Content Writer    |         |
+Zika        | QA                |         |
+Mika        | Product Owner     |         |
+
+| Add new user |
